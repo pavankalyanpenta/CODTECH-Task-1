@@ -6,6 +6,8 @@
 
 *Domain :* Power BI
 
+*Mentor name :* MUZAMMIL AHMED
+
 *Duration :* August 20th - September 20th
 
 # Overview of Task 1
