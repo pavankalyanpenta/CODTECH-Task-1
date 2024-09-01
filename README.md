@@ -1,4 +1,4 @@
-*Name :* PENTA PAVAN KUMAR
+*Name :* PENTA PAVAN KALYAN
 
 *Company :* CODTECH IT SOLUTIONS 
 
