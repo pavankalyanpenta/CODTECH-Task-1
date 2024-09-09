@@ -29,3 +29,7 @@ This repository contains a Power BI dashboard for analyzing sales performance.
 - Sales data from an Excel file
 - Product information
 - Regional sales data
+
+- The dashboard provides a clear and concise overview of sales performance.
+- You can easily analyze sales trends, identify top-performing sub-categories, and assess the impact of returns on profitability.
+- The filters allow you to drill down into specific data points and gain more granular insights.
